@@ -30,7 +30,3 @@ Estou sempre aberta a novas conexões e oportunidades para discutir projetos.
 | Plataforma | Link |
 | :--- | :--- |
 | **LinkedIn** | [Acesse meu perfil do LinkedIn](https://www.linkedin.com/in/tandarajesus) |
-
-\<p align="center"\>
-  Obrigada pela visita\! 👋
-\</p\>
