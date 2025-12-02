@@ -1,12 +1,5 @@
 ## 🚀 Tandara Jesus | Portfólio de Data Science & Analytics 👩🏽‍💻
 
-\<p align="center"\>
-  \<img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn Badge"/\>
-  \<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" alt="Python Badge"/\>
-  \<img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)" alt="SQL Badge"/\>
-  \<img src="[https://img.shields.io/badge/Power\_BI-F2C811?style=for-the-badge\&logo=power%20bi\&logoColor=black](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)" alt="Power BI Badge"/\>
-\</p\>
-
 ### Sobre Mim: 
 
 Sou uma profissional **Data-Driven** com uma base em análise de dados e **MBA em Data Science & Analytics (USP/Esalq)**.
