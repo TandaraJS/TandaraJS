@@ -2,13 +2,11 @@
 
 ### Sobre Mim: 
 
-Sou uma profissional **Data-Driven** com uma base em análise de dados e **MBA em Data Science & Analytics (USP/Esalq)**.
+Olá! Me chamo Tandara, tenho 27 anos e sou biomédica em transição para a área de Data Science e Analytics há pouco mais de um ano.
 
-Minha jornada é marcada pelo **rigor metodológico** adquirido na pesquisa científica (Biomedicina/UNIFESP), o que me confere uma capacidade única de **investigação profunda** e de **trabalhar com a ponta a ponta do ciclo de dados**: da extração e tratamento até a entrega de **soluções de problemas**.
+Atualmente, curso mestrado acadêmico em Genética na UNIFESP e também um MBA em Data Science & Analytics pela USP, onde venho aprofundando minhas habilidades em análise, modelagem e interpretação de dados.
 
-Minha missão é transformar *datasets* complexos em *insights* confiáveis que orientam a tomada de decisões estratégicas.
-
------
+Sou apaixonada por dados e pela capacidade de desenvolver soluções que conectem ciência, tecnologia e impacto real.
 
 ## 🛠️ Habilidades técnicas
 
