@@ -1,6 +1,6 @@
 ## 🚀 Tandara Jesus | Portfólio de Data Science & Analytics 👩🏽‍💻
 
-### Sobre Mim: 
+### 👋 Sobre Mim: 
 
 Olá! Me chamo Tandara, tenho 27 anos e sou biomédica em transição para a área de Data Science e Analytics há pouco mais de um ano.
 
